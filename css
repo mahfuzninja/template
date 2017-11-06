@@ -1,0 +1,25 @@
+body {
+          margin-left: 20px;
+          margin-right: 20px;
+          padding: 10px 10px 10px 10px;
+          border: 1px solid #000000;
+}
+
+#icon {
+          width: 80px;
+          height: 80px;
+          background-image: url(http://mahfuz.ninja/wp-content/uploads/2017/01/14718650_10207119152206927_1288245939913744085_n.jpg);
+          background-size: 80px 80px;          
+          border: 2px solid #000000;
+          border-radius: 50%;
+          margin-bottom: 32px;
+}
+
+#pro_pic {
+          width: 150px;
+          height: 150px;
+          background-image: url(http://mahfuz.ninja/wp-content/uploads/2017/01/14718650_10207119152206927_1288245939913744085_n.jpg);
+          background-size: 150px 150px;          
+          border: 2px solid #000000;
+          border-radius: 0%;
+}
