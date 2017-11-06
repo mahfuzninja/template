@@ -18,7 +18,7 @@ body {
 #pro_pic {
           width: 150px;
           height: 150px;
-          background-image: url(template/rumman.jpg);
+          background-image: url();
           background-size: 150px 150px;          
           border: 2px solid #000000;
           border-radius: 0%;
